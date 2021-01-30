@@ -1,1 +1,3 @@
 # NodeAuthAPI
+
+Simple JWT authorization
